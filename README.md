@@ -11,6 +11,12 @@
 # have TypeScript installed
 npm install -g typescript
 
+# run with nodemon
+npm run dev
+
 # compile ts
-tsc
+npm run build
+
+# start js
+npm start
 ```
